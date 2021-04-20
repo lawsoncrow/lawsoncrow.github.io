@@ -3,7 +3,7 @@
 <h1 style="text-align: center;">My name is Lawson Crow, Welcome to my site!
  <img src= "506D57A1-C7B4-4AB3-96A7-4DF2403A2A9C_1_201_a.jpeg" width="400" height="266" align="BOTTOM"></h1><hr />
  
-<body bgcolor = "LightBlue">
+<body bgcolor = "Red">
 
 <p><strong>About Me</strong>
  </p>
