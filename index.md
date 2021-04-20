@@ -11,8 +11,8 @@
 <p>I am a Freshman Business student at The University of Texas at Austin, McCombs School of Business. I am from Austin and love to hangout with friends and watch sports. My favorite teams are the Texas Longhorns, Liverpool FC, and Austin FC.  <br /><br /></p>
 
 <br/>
-<h3>My Favorite Website
-<p style="text-align: center;"><a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2463215">Click Here</a> to go to my favorite site</p></h3>
+<p><strong>My Favorite Website</strong></p>
+<p style="text-align: center;"><a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2463215">Click Here</a> to go to my favorite site</p>
 
 <hr />
 
