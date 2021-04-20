@@ -4,7 +4,7 @@
 
 <p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>
 
-<h1 style="text-align: center;">My name is Pitbull</h1>
+<h1 style="text-align: center;">My name is Lawson Crow</h1>
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
@@ -12,7 +12,7 @@
 
 <p><strong>About Me</strong></p>
 
-<p>This is a new paragraph! <br /><br /></p>
+<p>I am a Freshman Business student at The University of Texas at Austin, McCombs School of Business. I am from Austin and love to hangout with friends and watch sports. My favorite teams are the Texas Longhorns, Liverpool FC, and Austin FC.  <br /><br /></p>
 
 </body>
 
