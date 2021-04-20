@@ -5,13 +5,13 @@
  
 <body bgcolor = "LightBlue">
 
-<h2><strong>About Me</strong>
+<h2><strong>About Me</strong></h2>
 
-<p>I am a Freshman Business student at The University of Texas at Austin, McCombs School of Business. I am from Austin and love to hangout with friends and watch sports. My favorite teams are the Texas Longhorns, Liverpool FC, and Austin FC.  <br /><br /></p> </h2>
+<p>I am a Freshman Business student at The University of Texas at Austin, McCombs School of Business. I am from Austin and love to hangout with friends and watch sports. My favorite teams are the Texas Longhorns, Liverpool FC, and Austin FC.  <br /><br /></p> 
 
 </body>
-<h3><strong>My Favorite Website</strong>
-<p style="text-align: center;"><a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2463215">Click Here</a> to go to my favorite site</p></h3>
+<h3><strong>My Favorite Website</strong></h3>
+<p style="text-align: center;"><a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2463215">Click Here</a> to go to my favorite site</p>
 
 <hr />
 
