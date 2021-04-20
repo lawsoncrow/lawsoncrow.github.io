@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<p>&nbsp;</p>
 
-You can use the [editor on GitHub](https://github.com/lawsoncrow/lawsoncrow.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<center><img src="https://i.kym-cdn.com/entries/icons/facebook/000/023/098/Screen_Shot_2017-05-30_at_2.23.51_PM.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>
 
-### Markdown
+<h1 style="text-align: center;">My name is Pitbull</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2 style="text-align: center;">Welcome to my site!</h2>
 
-```markdown
-Syntax highlighted code block
+<body bgcolor = "LightSkyBlue">
 
-# Header 1
-## Header 2
-### Header 3
+<p><strong>About Me</strong></p>
 
-- Bulleted
-- List
+<p>This is a new paragraph! <br /><br /></p>
 
-1. Numbered
-2. List
+</body>
 
-**Bold** and _Italic_ and `Code` text
+<hr />
+![image](https://user-images.githubusercontent.com/82619962/115323767-4c074d00-a14e-11eb-99fc-dc7f4617dea8.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lawsoncrow/lawsoncrow.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
