@@ -5,9 +5,10 @@
  
 <body bgcolor = "LightBlue">
 
-<h2 style =strong>About Me
+<p><strong>About Me</strong>
+ </p>
 
-<p><span style="font-weight:normal">I am a Freshman Business student at The University of Texas at Austin, McCombs School of Business. I am from Austin and love to hangout with friends and watch sports. My favorite teams are the Texas Longhorns, Liverpool FC, and Austin FC.  <br /><br /></span></p></h2>
+<p>I am a Freshman Business student at The University of Texas at Austin, McCombs School of Business. I am from Austin and love to hangout with friends and watch sports. My favorite teams are the Texas Longhorns, Liverpool FC, and Austin FC.  <br /><br /></p>
 
 </body>
 <h3>My Favorite Website
