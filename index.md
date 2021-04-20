@@ -9,6 +9,6 @@
 
 </body>
 
-<hr />
-![image](https://user-images.githubusercontent.com/82619962/115323767-4c074d00-a14e-11eb-99fc-dc7f4617dea8.png)
+<p style="text-align: center;"><a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2463215">Click Here</a> to go to my favorite site</p>
+
 
