@@ -1,6 +1,5 @@
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>
 
 <h1 style="text-align: center;">My name is Lawson Crow</h1>
 
