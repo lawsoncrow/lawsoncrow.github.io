@@ -13,4 +13,3 @@
 
 <p style="text-align: center;"><a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2463215">Click Here</a> to go to my favorite site</p>
 
-
