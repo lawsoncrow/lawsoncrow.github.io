@@ -6,7 +6,7 @@
 <img src="506D57A1-C7B4-4AB3-96A7-4DF2403A2A9C_1_201_a.jpeg" width="400" height="266" align="BOTTOM" />
 </center>
 <hr />
-<body bgcolor = "LightBlue">
+<body bgcolor = "LightSkyBlue">
 <p><strong>About Me</strong>
 </p>
 <p>I am a Freshman Business student at The University of Texas at Austin, McCombs School of Business. I am from Austin and love to hangout with friends and watch sports. My favorite teams are the Texas Longhorns, Liverpool FC, and Austin FC. <br />
@@ -14,7 +14,7 @@
 </p>
 </body>
 <hr />
-<h2 style="text-align: center;">My Favorite Website</h2
+<h2 style="text-align: center;">My Favorite Website</h2>
 <p>&nbsp;</p>
 <center>
 <p style="text-align: center;"><a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2463215">Click Here</a> to go to my favorite site</p>
